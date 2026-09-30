@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**cruzPatrick/cruzPatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <a href="linkedin.com/in/cruzpatrickdev">Patrick</a>!
 
-Here are some ideas to get you started:
+I live in Rio de Janeiro 🏖️
+Currently, I'm pursuing a bachelor's degree in Computer Science at CEFET/RJ and taking a Python course on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with C, Java, and JavaScript. I'm currently learning Python and have basic experience with it.
+I also know how to build websites using HTML, CSS, and React.
+
+I really love building things from scratch and learning new things to use in my projects — small ones, and sometimes not-so-small ones.
+
+I'm an advanced English speaker.
+
+Some fun facts:
+
+* I'm a fast learner.
+* I REALLY like reading existentialist writers like Dostoevsky.
