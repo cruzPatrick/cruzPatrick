@@ -8,7 +8,8 @@ Currently, I'm pursuing a bachelor's degree in Computer Science at CEFET/RJ and 
 I work with C, Java, and JavaScript. I'm currently learning Python and have basic experience with it.
 I also know how to build websites using HTML, CSS, and React.
 
-I really love building things from scratch and learning new things to use in my projects — small ones, and sometimes not-so-small ones.
+I really love building things from scratch and learning new things to use in my projects.
+Some small ones, and sometimes not-so-small ones.
 
 I'm an advanced English speaker.
 
