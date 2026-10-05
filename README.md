@@ -16,4 +16,4 @@ I'm an advanced English speaker.
 Some fun facts:
 
 * I'm a fast learner.
-* I REALLY like reading existentialist writers like Dostoevsky.
+* I really enjoy reading existentialist authors such as Dostoevsky.
