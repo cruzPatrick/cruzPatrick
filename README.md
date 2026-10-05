@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <a href="https://linkedin.com/in/cruzpatrickdev">Patrick</a>!
+I'm <a href="https://linkedin.com/in/cruzpatrickdev" target="_blank">Patrick</a>!
 
 I live in Rio de Janeiro 🏖️
 Currently, I'm pursuing a bachelor's degree in Computer Science at CEFET/RJ and taking a Python course on the side.
